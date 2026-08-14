@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas 
 
-🚀 **Desenvolvedor Software Junior** focado no desenvolvimento de soluções Web e Aplicativos eficientes, escaláveis e estruturados.
+🚀 **Desenvolvedor Software** focado no desenvolvimento de soluções Web Backend e Aplicativos, escaláveis e estruturados.
 
 ---
 
