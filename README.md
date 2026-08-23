@@ -30,9 +30,9 @@ Conceitos	REST APIs, Padrões de Projeto, Lógica Estruturada
 
 <br/>
 🚀 Projetos em Destaque
-<div align="center"> <a href="https://github.com/LucasSCarmo0305/NOME_DO_REPO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSCarmo0305&repo=NOME_DO_REPO&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=CCCCCC" /> </a> </div>
+<div align="center"> <a href="https://github.com/LucasSCarmo0305/ACLLG-SAVES"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSCarmo0305&repo=ACLLG-SAVES&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=CCCCCC" /> </a> </div>
 
-💡 Substitua NOME_DO_REPO pelo nome de um projeto seu (ex: o sistema de gestão de estoque). Pode adicionar mais de um card, um embaixo do outro.
+💡 Substitua ACLLG-SAVES pelo nome de um projeto seu (ex: o sistema de gestão de estoque). Pode adicionar mais de um card, um embaixo do outro.
 
 <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:0A0A0A&height=100&section=footer" width="100%"/>
 
