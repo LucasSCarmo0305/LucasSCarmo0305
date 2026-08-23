@@ -60,11 +60,7 @@ Em busca da minha primeira oportunidade de <b>estágio em desenvolvimento de sof
 <tr>
 <td align="center"><b>Bancos de<br/>Dados</b></td>
 <td><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Ferramentas</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /></td>
-</tr>
+</tr
 </table>
 
 <br/>
