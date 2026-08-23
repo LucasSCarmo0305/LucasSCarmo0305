@@ -74,15 +74,15 @@ Em busca da minha primeira oportunidade de <b>estágio em desenvolvimento de sof
 <table align="center" width="100%">
 <tr>
 <td width="40" align="center">🔍</td>
-<td><b>Curiosidade técnica</b> — gosto de entender o "porquê" por trás de cada solução, não só implementar</td>
+<td><b>Curiosidade técnica</b> — Gosto de entender o "porquê" por trás de cada solução, não só implementar</td>
 </tr>
 <tr>
 <td align="center">🧩</td>
-<td><b>Resolução de problemas reais</b> — experiência prática desenvolvendo sistemas completos, do banco de dados à interface</td>
+<td><b>Resolução de problemas reais</b> — Desenvolvendo sistemas completos, do banco de dados à interface</td>
 </tr>
 <tr>
 <td align="center">📖</td>
-<td><b>Aprendizado contínuo</b> — sempre estudando novas tecnologias e boas práticas de arquitetura</td>
+<td><b>Aprendizado contínuo</b> — Sempre estudando novas tecnologias e boas práticas de arquitetura</td>
 </tr>
 </table>
 
