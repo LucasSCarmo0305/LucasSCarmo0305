@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🧭 Sobre mim
+##  Sobre mim
 
 <table align="center" width="100%">
 <tr>
@@ -46,7 +46,7 @@ Em busca da minha primeira oportunidade de <b>estágio em desenvolvimento de sof
 
 <br/>
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 <table align="center">
 <tr>
@@ -65,7 +65,7 @@ Em busca da minha primeira oportunidade de <b>estágio em desenvolvimento de sof
 
 <br/>
 
-## 💡 O que me diferencia
+##  O que me diferencia
 
 <table align="center" width="100%">
 <tr>
