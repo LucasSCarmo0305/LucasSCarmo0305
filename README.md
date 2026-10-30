@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 > Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas (ADS)** pelo SENAI.
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 💡 Diferenciais
+##  Diferenciais
 
 - 🔍 **Engenharia Reversa Mental:** Foco em compreender a arquitetura por trás dos frameworks. Valorizo entender *como* a ferramenta funciona, não apenas sua sintaxe.
 - 🧩 **Visão Sistêmica:** Capacidade de planejar e executar de ponta a ponta — desde a modelagem do banco de dados até as regras de negócio da API.
@@ -52,7 +52,7 @@
 
 ---
 
-## 📫 Conecte-se comigo
+##  Conecte-se comigo
 
 <div align="center">
 
