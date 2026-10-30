@@ -14,18 +14,18 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 👨‍💻 Sobre mim
 
 > **"Construindo soluções robustas, escaláveis e eficientes."**
-> Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas** (SENAI).
+> Graduando em **Ciência da Computação** pela UNIT e Técnico em **Desenvolvimento de Sistemas** pelo SENAI.
 
-- 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar meus conhecimentos em arquitetura e lógica em projetos reais.
-- 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos (POO), boas práticas (Clean Code), padrões de projeto e construção de APIs RESTful.
-- 🛢️ **Dados:** Forte base em modelagem, estruturação e queries complexas em bancos relacionais (**PostgreSQL** e **SQL Server**).
+- 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar fundamentos de arquitetura e lógica em cenários reais.
+- 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos (POO), Clean Code, Design Patterns e construção de APIs RESTful.
+- 🛢️ **Dados:** Modelagem, estruturação e queries avançadas em bancos relacionais (**PostgreSQL** e **SQL Server**).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -43,32 +43,21 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 📊 Estatísticas e Atividade
+## 💡 Diferenciais
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSCarmo0305&show_icons=true&bg_color=0A1128&title_color=FFFFFF&text_color=CCCCCC&icon_color=4F8BFF&border_color=14295E&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSCarmo0305&layout=compact&bg_color=0A1128&title_color=FFFFFF&text_color=CCCCCC&border_color=14295E&hide=html,css"/>
-</div>
+- 🔍 **Engenharia Reversa Mental:** Foco em compreender a arquitetura por trás dos frameworks. Valorizo entender *como* a ferramenta funciona, não apenas sua sintaxe.
+- 🧩 **Visão Sistêmica:** Capacidade de planejar e executar de ponta a ponta — desde a modelagem do banco de dados até as regras de negócio da API.
+- 📖 **Disciplina Prática:** Estudo contínuo focado em aprofundar as bases em Java e C#, priorizando a resolução estruturada de problemas.
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 💡 O que me diferencia
-
-- 🔍 **Engenharia Reversa Mental:** Foco em compreender a arquitetura por trás dos frameworks. Gosto de saber *como* a ferramenta funciona, não apenas *como usar*.
-- 🧩 **Visão Sistêmica:** Planejamento de ponta a ponta — da modelagem do banco de dados até as regras de negócio e a entrega do endpoint.
-- 📖 **Disciplina de Código:** Estudo diário focado em aprofundar bases sólidas em Java e C#, priorizando sempre a resolução inteligente de problemas.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📫 Conecte-se comigo
 
 <div align="center">
 
-Estou sempre aberto a bater um papo sobre tecnologia, arquitetura de software e novas oportunidades.<br/>
+Aberto a novos desafios, networking e troca de conhecimentos técnicos.<br/>
 Sinta-se à vontade para enviar uma mensagem:
 
 <br/>
