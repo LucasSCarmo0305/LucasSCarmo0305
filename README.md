@@ -14,31 +14,38 @@
 
 <br/>
 
-## 📌 Sobre mim
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-> Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas (ADS)** pelo SENAI.
+## 👨‍💻 Sobre mim
 
-- 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para agregar valor a projetos e evoluir tecnicamente.
-- 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos, boas práticas de código, padrões de projeto e APIs RESTful.
-- 🛢️ **Banco de Dados:** Modelagem, estruturação e manipulação de dados relacionais (PostgreSQL e SQL Server).
+> **"Construindo soluções robustas, escaláveis e eficientes."**
+> Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas** (SENAI).
 
-<br/>
+- 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar meus conhecimentos em arquitetura e lógica em projetos reais.
+- 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos (POO), boas práticas (Clean Code), padrões de projeto e construção de APIs RESTful.
+- 🛢️ **Dados:** Forte base em modelagem, estruturação e queries complexas em bancos relacionais (**PostgreSQL** e **SQL Server**).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-### Linguagens & Frameworks
+**`[ Linguagens & Frameworks ]`**<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,js,nodejs&theme=dark" />
 
-### Bancos de Dados & Ferramentas
+<br/><br/>
+
+**`[ Bancos de Dados & Ferramentas ]`**<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mssql,git,github,idea,vscode,postman&theme=dark" />
 
 </div>
 
 <br/>
 
-## 📊 Produtividade & Estatísticas
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📊 Estatísticas e Atividade
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSCarmo0305&show_icons=true&bg_color=0A1128&title_color=FFFFFF&text_color=CCCCCC&icon_color=4F8BFF&border_color=14295E&include_all_commits=true&count_private=true"/>
@@ -47,25 +54,27 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 💡 O que me diferencia
 
-- 🔍 **Curiosidade técnica:** Foco em compreender a arquitetura e os fundamentos por trás das ferramentas, indo além da sintaxe.
-- 🧩 **Visão ponta a ponta:** Capacidade de planejar e desenvolver desde a modelagem do banco de dados até a construção da regra de negócio.
-- 📖 **Aprendizado constante:** Disciplina diária de estudos voltada a Java, C#, arquitetura de software e resolução de problemas.
+- 🔍 **Engenharia Reversa Mental:** Foco em compreender a arquitetura por trás dos frameworks. Gosto de saber *como* a ferramenta funciona, não apenas *como usar*.
+- 🧩 **Visão Sistêmica:** Planejamento de ponta a ponta — da modelagem do banco de dados até as regras de negócio e a entrega do endpoint.
+- 📖 **Disciplina de Código:** Estudo diário focado em aprofundar bases sólidas em Java e C#, priorizando sempre a resolução inteligente de problemas.
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📫 Vamos conversar?
+## 📫 Conecte-se comigo
 
 <div align="center">
 
-Estou sempre aberto a oportunidades profissionais, networking e troca de conhecimentos técnicos.<br/>
-Sinta-se à vontade para entrar em contato:
+Estou sempre aberto a bater um papo sobre tecnologia, arquitetura de software e novas oportunidades.<br/>
+Sinta-se à vontade para enviar uma mensagem:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
