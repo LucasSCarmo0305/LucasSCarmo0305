@@ -18,8 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-> **"Construindo soluções robustas, escaláveis e eficientes."**
-> Graduando em **Ciência da Computação** pela UNIT e Técnico em **Desenvolvimento de Sistemas** pelo SENAI.
+> Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas (ADS)** pelo SENAI.
 
 - 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar fundamentos de arquitetura e lógica em cenários reais.
 - 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos (POO), Clean Code, Design Patterns e construção de APIs RESTful.
