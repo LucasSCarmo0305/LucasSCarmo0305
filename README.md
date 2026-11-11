@@ -79,8 +79,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasSCarmo0305&show_icons=true&hide=issues&bg_color=0A1128&title_color=5B8DEF&text_color=CCCCCC&icon_color=5B8DEF&border_color=14295E&border_radius=10" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSCarmo0305&layout=compact&bg_color=0A1128&title_color=5B8DEF&text_color=CCCCCC&border_color=14295E&border_radius=10" alt="Linguagens mais usadas" />
 
 <br/>
 
