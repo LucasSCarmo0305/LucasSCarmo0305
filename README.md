@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0F1E4D,100:14295E&height=180&section=header&text=Lucas%20Santos&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Desenvolvedor%20Back-end%20em%20Forma%C3%A7%C3%A3o&descAlignY=62&descSize=16&descColor=CCCCCC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0F1E4D,100:14295E&height=200&section=header&text=Lucas%20Santos&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Back-end%20em%20Forma%C3%A7%C3%A3o&descAlignY=62&descSize=17&descColor=CCCCCC" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIT;Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Python+%C2%B7+JavaScript;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5B8DEF&center=true&vCenter=true&width=650&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIT;Java+%C2%B7+Spring+Boot+%C2%B7+APIs+REST;Python+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/LucasSCarmo0305" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/STATUS-ABERTO%20A%20EST%C3%81GIO-1F6FEB?style=for-the-badge&labelColor=0A1128" alt="Aberto a estágio" />
+<img src="https://img.shields.io/badge/ARACAJU-SE-14295E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A1128" alt="Aracaju, SE" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://lucasscarmo0305.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-14295E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
 
 </div>
 
@@ -16,53 +21,86 @@
 
 ---
 
-##  Sobre mim
+## 👨‍💻 Sobre mim
 
-> Graduando em **Ciência da Computação** pela UNIT (Universidade Tiradentes) e Técnico em **Desenvolvimento de Sistemas (ADS)** pelo SENAI.
+> Graduando em **Ciência da Computação** pela UNIT e Técnico em **Desenvolvimento de Sistemas** pelo SENAI.
 
-- 🎯 **Objetivo:** Em busca da primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar fundamentos de arquitetura e lógica em cenários reais.
-- 💻 **Foco Técnico:** Desenvolvimento Back-end, Orientação a Objetos (POO), Clean Code, Design Patterns e construção de APIs RESTful.
-- 🛢️ **Dados:** Modelagem, estruturação e queries avançadas em bancos relacionais (**PostgreSQL** e **SQL Server**).
+- 🎯 **Objetivo:** primeira oportunidade de **estágio em Desenvolvimento de Software**, aplicando em cenários reais o que venho construindo em arquitetura e lógica.
+- 💻 **Foco técnico:** back-end, Orientação a Objetos, Clean Code, Design Patterns e APIs RESTful.
+- 🛢️ **Dados:** modelagem e consultas em bancos relacionais (**PostgreSQL** e **SQL Server**).
+- 📍 **Aracaju, SE**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack
 
 <div align="center">
 
 **`[ Linguagens & Frameworks ]`**<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,js,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,js,nodejs,html,css&theme=dark" alt="Linguagens e frameworks" />
 
 <br/><br/>
 
 **`[ Bancos de Dados & Ferramentas ]`**<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mssql,git,github,idea,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,linux,git,github,idea,vscode,postman&theme=dark" alt="Bancos de dados e ferramentas" />
 
 </div>
 
-<br/>
-
 ---
 
-##  Diferenciais
+## 🚀 Projetos em destaque
 
-- 🔍 **Engenharia Reversa Mental:** Foco em compreender a arquitetura por trás dos frameworks. Valorizo entender *como* a ferramenta funciona, não apenas sua sintaxe.
-- 🧩 **Visão Sistêmica:** Capacidade de planejar e executar de ponta a ponta — desde a modelagem do banco de dados até as regras de negócio da API.
-- 📖 **Disciplina Prática:** Estudo contínuo focado em aprofundar as bases em Java e C#, priorizando a resolução estruturada de problemas.
+<!-- Troque NOME-DO-REPO pelo nome real de cada repositório -->
 
----
-
-##  Conecte-se comigo
+| Projeto | O que faz | Tecnologias |
+| :-- | :-- | :-- |
+| **[API REST de Produtos](https://github.com/LucasSCarmo0305/NOME-DO-REPO)** | API de gestão de produtos em camadas (Controller, Service, DTO), tratamento global de exceções e front-end SPA via Fetch API. | `Java 23` `Spring Boot` `Lombok` `JavaScript` |
+| **[PayFlow](https://github.com/LucasSCarmo0305/NOME-DO-REPO)** | Sistema web de transações financeiras: criação de contas, crédito, débito e extrato em tempo real. | `Java` `Spring Boot` `Spring Data JPA` `H2` |
+| **[Gestão de Estoque](https://github.com/LucasSCarmo0305/NOME-DO-REPO)** | Controle de inventário com fluxo de produtos e relatórios gerenciais para apoio à decisão. | `Python` `Flask` `PostgreSQL` `JavaScript` |
+| **[Clima por CEP](https://github.com/LucasSCarmo0305/NOME-DO-REPO)** | Interface que mostra o clima em tempo real a partir do endereço, consumindo as APIs ViaCEP e OpenWeather. | `JavaScript` `HTML` `CSS` `API REST` |
 
 <div align="center">
 
-Aberto a novos desafios, networking e troca de conhecimentos técnicos.<br/>
-Sinta-se à vontade para enviar uma mensagem:
+<a href="https://github.com/LucasSCarmo0305?tab=repositories"><img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-14295E?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1128" alt="Ver todos os repositórios" /></a>
+
+</div>
+
+---
+
+## 🧠 Como eu trabalho
+
+- 🔍 **Curiosidade técnica:** gosto de entender como os frameworks funcionam por dentro, não só a sintaxe.
+- 🧩 **Visão de ponta a ponta:** planejo e executo desde a modelagem do banco até as regras de negócio da API.
+- 📖 **Estudo contínuo:** foco em aprofundar as bases de Java e C#, resolvendo problemas de forma estruturada.
+
+---
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasSCarmo0305&show_icons=true&hide=issues&bg_color=0A1128&title_color=5B8DEF&text_color=CCCCCC&icon_color=5B8DEF&border_color=14295E&border_radius=10" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSCarmo0305&layout=compact&bg_color=0A1128&title_color=5B8DEF&text_color=CCCCCC&border_color=14295E&border_radius=10" alt="Linguagens mais usadas" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://streak-stats.demolab.com?user=LucasSCarmo0305&background=0A1128&ring=5B8DEF&fire=5B8DEF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&stroke=14295E&border=14295E&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 🤝 Vamos conversar?
+
+<div align="center">
+
+Aberto a novos desafios, networking e troca de conhecimento técnico.<br/>
+Se tiver uma vaga de estágio ou quiser trocar uma ideia, me chama:
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/lucas-santos-1b9213370" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lucas0305carmo2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
 
