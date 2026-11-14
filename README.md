@@ -21,18 +21,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 > Graduando em **Ciência da Computação** pela UNIT e Técnico em **Desenvolvimento de Sistemas** pelo SENAI.
 
-- 🎯 **Objetivo:** primeira oportunidade de **estágio em Desenvolvimento de Software**, aplicando em cenários reais o que venho construindo em arquitetura e lógica.
-- 💻 **Foco técnico:** back-end, Orientação a Objetos, Clean Code, Design Patterns e APIs RESTful.
-- 🛢️ **Dados:** modelagem e consultas em bancos relacionais (**PostgreSQL** e **SQL Server**).
-- 📍 **Aracaju, SE**
+-  **Objetivo:** primeira oportunidade de **estágio em Desenvolvimento de Software**, aplicando em cenários reais o que venho construindo em arquitetura e lógica.
+-  **Foco técnico:** back-end, Orientação a Objetos, Clean Code, Design Patterns e APIs RESTful.
+-  **Dados:** modelagem e consultas em bancos relacionais (**PostgreSQL** e **SQL Server**).
+-  **Aracaju, SE**
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 <!-- Troque NOME-DO-REPO pelo nome real de cada repositório -->
 
@@ -67,15 +67,15 @@
 
 ---
 
-## 🧠 Como eu trabalho
+##  Como eu trabalho
 
-- 🔍 **Curiosidade técnica:** gosto de entender como os frameworks funcionam por dentro, não só a sintaxe.
-- 🧩 **Visão de ponta a ponta:** planejo e executo desde a modelagem do banco até as regras de negócio da API.
-- 📖 **Estudo contínuo:** foco em aprofundar as bases de Java e C#, resolvendo problemas de forma estruturada.
+-  **Curiosidade técnica:** gosto de entender como os frameworks funcionam por dentro, não só a sintaxe.
+-  **Visão de ponta a ponta:** planejo e executo desde a modelagem do banco até as regras de negócio da API.
+-  **Estudo contínuo:** foco em aprofundar as bases de Java e C#, resolvendo problemas de forma estruturada.
 
 ---
 
-## 📊 GitHub em números
+##  GitHub em números
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🤝 Vamos conversar?
+##  Vamos conversar?
 
 <div align="center">
 
